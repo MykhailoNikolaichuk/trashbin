@@ -12,3 +12,5 @@ for i in reversed(range(slices)):
 
 print('Once I was devastated there is no more reason to keep me in the fridge')
 print('Fast-forward 3 hours and now I\'m here in a *cking trashcan... ')
+
+print('But life is goin on, there is plenty of friends here...')
